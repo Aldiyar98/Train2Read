@@ -7,6 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC0431D520FCFABC006C1875 /* WideningVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0431D420FCFABC006C1875 /* WideningVC.swift */; };
+		AC0431D820FDDB80006C1875 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0431D720FDDB80006C1875 /* Constants.swift */; };
+		AC0431DA20FF0333006C1875 /* MixedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0431D920FF0333006C1875 /* MixedVC.swift */; };
+		AC04322520FF147F006C1875 /* Raleway-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321320FF147B006C1875 /* Raleway-ExtraBold.ttf */; };
+		AC04322620FF147F006C1875 /* Raleway-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321420FF147B006C1875 /* Raleway-SemiBold.ttf */; };
+		AC04322720FF147F006C1875 /* Raleway-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321520FF147B006C1875 /* Raleway-Thin.ttf */; };
+		AC04322820FF147F006C1875 /* Raleway-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321620FF147C006C1875 /* Raleway-Italic.ttf */; };
+		AC04322920FF147F006C1875 /* Raleway-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321720FF147C006C1875 /* Raleway-MediumItalic.ttf */; };
+		AC04322A20FF147F006C1875 /* Raleway-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321820FF147C006C1875 /* Raleway-LightItalic.ttf */; };
+		AC04322B20FF147F006C1875 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321920FF147C006C1875 /* Raleway-Light.ttf */; };
+		AC04322C20FF147F006C1875 /* Raleway-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321A20FF147C006C1875 /* Raleway-Black.ttf */; };
+		AC04322D20FF147F006C1875 /* Raleway-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321B20FF147D006C1875 /* Raleway-ExtraLightItalic.ttf */; };
+		AC04322E20FF147F006C1875 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321C20FF147D006C1875 /* Raleway-Regular.ttf */; };
+		AC04322F20FF147F006C1875 /* Raleway-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321D20FF147D006C1875 /* Raleway-ThinItalic.ttf */; };
+		AC04323020FF147F006C1875 /* Raleway-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321E20FF147D006C1875 /* Raleway-ExtraLight.ttf */; };
+		AC04323120FF147F006C1875 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04321F20FF147E006C1875 /* Raleway-Bold.ttf */; };
+		AC04323220FF147F006C1875 /* Raleway-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04322020FF147E006C1875 /* Raleway-SemiBoldItalic.ttf */; };
+		AC04323320FF147F006C1875 /* Raleway-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04322120FF147E006C1875 /* Raleway-ExtraBoldItalic.ttf */; };
+		AC04323420FF147F006C1875 /* Raleway-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04322220FF147E006C1875 /* Raleway-Medium.ttf */; };
+		AC04323520FF147F006C1875 /* Raleway-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04322320FF147E006C1875 /* Raleway-BlackItalic.ttf */; };
+		AC04323620FF147F006C1875 /* Raleway-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC04322420FF147E006C1875 /* Raleway-BoldItalic.ttf */; };
+		AC04323820FF3E48006C1875 /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC04323720FF3E48006C1875 /* ViewExtension.swift */; };
+		AC04323A21098408006C1875 /* MixedTexts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC04323921098408006C1875 /* MixedTexts.swift */; };
+		AC043240210A283B006C1875 /* BackwardTexts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC04323F210A283B006C1875 /* BackwardTexts.swift */; };
+		AC043242210A2F0C006C1875 /* BackWardsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC043241210A2F0C006C1875 /* BackWardsVC.swift */; };
+		AC043244210B8F02006C1875 /* WpmCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC043243210B8F02006C1875 /* WpmCell.swift */; };
+		AC043247210BA071006C1875 /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC043246210BA071006C1875 /* ProfileVC.swift */; };
+		AC39CC6120FC5C57002E19D1 /* SchulteTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC39CC6020FC5C57002E19D1 /* SchulteTableVC.swift */; };
+		AC39CC6420FC5CC9002E19D1 /* SchulteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC39CC6320FC5CC9002E19D1 /* SchulteTableViewCell.swift */; };
 		AC6DAE8A20F8913900C278C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAE8920F8913900C278C9 /* AppDelegate.swift */; };
 		AC6DAE8C20F8913900C278C9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAE8B20F8913900C278C9 /* ViewController.swift */; };
 		AC6DAE8F20F8913900C278C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6DAE8D20F8913900C278C9 /* Main.storyboard */; };
@@ -14,6 +43,16 @@
 		AC6DAE9420F8913B00C278C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6DAE9220F8913B00C278C9 /* LaunchScreen.storyboard */; };
 		AC6DAE9F20F8913B00C278C9 /* Train2ReadTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAE9E20F8913B00C278C9 /* Train2ReadTests.swift */; };
 		AC6DAEAA20F8913B00C278C9 /* Train2ReadUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAEA920F8913B00C278C9 /* Train2ReadUITests.swift */; };
+		AC6DAEB820F8A0F300C278C9 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAEB720F8A0F300C278C9 /* TableViewCell.swift */; };
+		AC6DAEBC20F8BA5400C278C9 /* CheckWpmVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAEBB20F8BA5400C278C9 /* CheckWpmVC.swift */; };
+		AC6DAEC020F8D4EA00C278C9 /* ExercisesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAEBF20F8D4EA00C278C9 /* ExercisesVC.swift */; };
+		AC6DAEC420FB516700C278C9 /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAEC320FB516700C278C9 /* StringExtension.swift */; };
+		AC6DAEC620FB51B100C278C9 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6DAEC520FB51B100C278C9 /* UIColorExtension.swift */; };
+		ACBCD6782111B2A800930D4B /* smb_coin.wav in Resources */ = {isa = PBXBuildFile; fileRef = ACBCD6762111B2A800930D4B /* smb_coin.wav */; };
+		ACBCD6792111B2A800930D4B /* smb_bump.wav in Resources */ = {isa = PBXBuildFile; fileRef = ACBCD6772111B2A800930D4B /* smb_bump.wav */; };
+		ACEA2918210FA91C00DF88BA /* InsertTextVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEA2917210FA91C00DF88BA /* InsertTextVC.swift */; };
+		ACEA291F2110DAA400DF88BA /* NumbersSchulteTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEA291E2110DAA400DF88BA /* NumbersSchulteTable.swift */; };
+		ACEA29212110DB4B00DF88BA /* NumberCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEA29202110DB4B00DF88BA /* NumberCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +73,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D9A571998938D21E9B8F2FF /* Pods-Train2ReadTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Train2ReadTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Train2ReadTests/Pods-Train2ReadTests.debug.xcconfig"; sourceTree = "<group>"; };
+		92F36414C3177186AFEB3281 /* Pods-Train2ReadUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Train2ReadUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Train2ReadUITests/Pods-Train2ReadUITests.release.xcconfig"; sourceTree = "<group>"; };
+		AC0431D420FCFABC006C1875 /* WideningVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WideningVC.swift; sourceTree = "<group>"; };
+		AC0431D720FDDB80006C1875 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		AC0431D920FF0333006C1875 /* MixedVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MixedVC.swift; sourceTree = "<group>"; };
+		AC04321320FF147B006C1875 /* Raleway-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraBold.ttf"; sourceTree = "<group>"; };
+		AC04321420FF147B006C1875 /* Raleway-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-SemiBold.ttf"; sourceTree = "<group>"; };
+		AC04321520FF147B006C1875 /* Raleway-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Thin.ttf"; sourceTree = "<group>"; };
+		AC04321620FF147C006C1875 /* Raleway-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Italic.ttf"; sourceTree = "<group>"; };
+		AC04321720FF147C006C1875 /* Raleway-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-MediumItalic.ttf"; sourceTree = "<group>"; };
+		AC04321820FF147C006C1875 /* Raleway-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-LightItalic.ttf"; sourceTree = "<group>"; };
+		AC04321920FF147C006C1875 /* Raleway-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Light.ttf"; sourceTree = "<group>"; };
+		AC04321A20FF147C006C1875 /* Raleway-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Black.ttf"; sourceTree = "<group>"; };
+		AC04321B20FF147D006C1875 /* Raleway-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		AC04321C20FF147D006C1875 /* Raleway-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Regular.ttf"; sourceTree = "<group>"; };
+		AC04321D20FF147D006C1875 /* Raleway-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ThinItalic.ttf"; sourceTree = "<group>"; };
+		AC04321E20FF147D006C1875 /* Raleway-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraLight.ttf"; sourceTree = "<group>"; };
+		AC04321F20FF147E006C1875 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
+		AC04322020FF147E006C1875 /* Raleway-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		AC04322120FF147E006C1875 /* Raleway-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		AC04322220FF147E006C1875 /* Raleway-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Medium.ttf"; sourceTree = "<group>"; };
+		AC04322320FF147E006C1875 /* Raleway-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-BlackItalic.ttf"; sourceTree = "<group>"; };
+		AC04322420FF147E006C1875 /* Raleway-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-BoldItalic.ttf"; sourceTree = "<group>"; };
+		AC04323720FF3E48006C1875 /* ViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
+		AC04323921098408006C1875 /* MixedTexts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MixedTexts.swift; sourceTree = "<group>"; };
+		AC04323F210A283B006C1875 /* BackwardTexts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackwardTexts.swift; sourceTree = "<group>"; };
+		AC043241210A2F0C006C1875 /* BackWardsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackWardsVC.swift; sourceTree = "<group>"; };
+		AC043243210B8F02006C1875 /* WpmCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WpmCell.swift; sourceTree = "<group>"; };
+		AC043246210BA071006C1875 /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
+		AC39CC6020FC5C57002E19D1 /* SchulteTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchulteTableVC.swift; sourceTree = "<group>"; };
+		AC39CC6320FC5CC9002E19D1 /* SchulteTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchulteTableViewCell.swift; sourceTree = "<group>"; };
 		AC6DAE8620F8913900C278C9 /* Train2Read.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Train2Read.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC6DAE8920F8913900C278C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AC6DAE8B20F8913900C278C9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +117,20 @@
 		AC6DAEA520F8913B00C278C9 /* Train2ReadUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Train2ReadUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC6DAEA920F8913B00C278C9 /* Train2ReadUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Train2ReadUITests.swift; sourceTree = "<group>"; };
 		AC6DAEAB20F8913B00C278C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC6DAEB720F8A0F300C278C9 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		AC6DAEBB20F8BA5400C278C9 /* CheckWpmVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckWpmVC.swift; sourceTree = "<group>"; };
+		AC6DAEBF20F8D4EA00C278C9 /* ExercisesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExercisesVC.swift; sourceTree = "<group>"; };
+		AC6DAEC320FB516700C278C9 /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		AC6DAEC520FB51B100C278C9 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		ACBCD6762111B2A800930D4B /* smb_coin.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = smb_coin.wav; sourceTree = "<group>"; };
+		ACBCD6772111B2A800930D4B /* smb_bump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = smb_bump.wav; sourceTree = "<group>"; };
+		ACEA2917210FA91C00DF88BA /* InsertTextVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertTextVC.swift; sourceTree = "<group>"; };
+		ACEA291E2110DAA400DF88BA /* NumbersSchulteTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersSchulteTable.swift; sourceTree = "<group>"; };
+		ACEA29202110DB4B00DF88BA /* NumberCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCollectionViewCell.swift; sourceTree = "<group>"; };
+		B2458D9527451C47970473C2 /* Pods-Train2ReadUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Train2ReadUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Train2ReadUITests/Pods-Train2ReadUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		C0BECB571893D212479ABBB3 /* Pods-Train2ReadTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Train2ReadTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Train2ReadTests/Pods-Train2ReadTests.release.xcconfig"; sourceTree = "<group>"; };
+		C6A45DF1360049A5D809A072 /* Pods-Train2Read.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Train2Read.release.xcconfig"; path = "Pods/Target Support Files/Pods-Train2Read/Pods-Train2Read.release.xcconfig"; sourceTree = "<group>"; };
+		FA8E4FD5BD0EEEE717A01686 /* Pods-Train2Read.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Train2Read.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Train2Read/Pods-Train2Read.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,13 +158,89 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		58056511E3B207DDAD1E53D7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		64C98081C76BDF60F55E19CC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FA8E4FD5BD0EEEE717A01686 /* Pods-Train2Read.debug.xcconfig */,
+				C6A45DF1360049A5D809A072 /* Pods-Train2Read.release.xcconfig */,
+				3D9A571998938D21E9B8F2FF /* Pods-Train2ReadTests.debug.xcconfig */,
+				C0BECB571893D212479ABBB3 /* Pods-Train2ReadTests.release.xcconfig */,
+				B2458D9527451C47970473C2 /* Pods-Train2ReadUITests.debug.xcconfig */,
+				92F36414C3177186AFEB3281 /* Pods-Train2ReadUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		AC0431D620FDDB5F006C1875 /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+				AC0431D720FDDB80006C1875 /* Constants.swift */,
+				AC04323921098408006C1875 /* MixedTexts.swift */,
+				AC04323F210A283B006C1875 /* BackwardTexts.swift */,
+			);
+			path = Enums;
+			sourceTree = "<group>";
+		};
+		AC04321220FF1466006C1875 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				AC04321A20FF147C006C1875 /* Raleway-Black.ttf */,
+				AC04322320FF147E006C1875 /* Raleway-BlackItalic.ttf */,
+				AC04321F20FF147E006C1875 /* Raleway-Bold.ttf */,
+				AC04322420FF147E006C1875 /* Raleway-BoldItalic.ttf */,
+				AC04321320FF147B006C1875 /* Raleway-ExtraBold.ttf */,
+				AC04322120FF147E006C1875 /* Raleway-ExtraBoldItalic.ttf */,
+				AC04321E20FF147D006C1875 /* Raleway-ExtraLight.ttf */,
+				AC04321B20FF147D006C1875 /* Raleway-ExtraLightItalic.ttf */,
+				AC04321620FF147C006C1875 /* Raleway-Italic.ttf */,
+				AC04321920FF147C006C1875 /* Raleway-Light.ttf */,
+				AC04321820FF147C006C1875 /* Raleway-LightItalic.ttf */,
+				AC04322220FF147E006C1875 /* Raleway-Medium.ttf */,
+				AC04321720FF147C006C1875 /* Raleway-MediumItalic.ttf */,
+				AC04321C20FF147D006C1875 /* Raleway-Regular.ttf */,
+				AC04321420FF147B006C1875 /* Raleway-SemiBold.ttf */,
+				AC04322020FF147E006C1875 /* Raleway-SemiBoldItalic.ttf */,
+				AC04321520FF147B006C1875 /* Raleway-Thin.ttf */,
+				AC04321D20FF147D006C1875 /* Raleway-ThinItalic.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		AC39CC6220FC5CA9002E19D1 /* Cells,Subclasses */ = {
+			isa = PBXGroup;
+			children = (
+				AC39CC6320FC5CC9002E19D1 /* SchulteTableViewCell.swift */,
+				AC6DAEB720F8A0F300C278C9 /* TableViewCell.swift */,
+				AC043243210B8F02006C1875 /* WpmCell.swift */,
+				ACEA29202110DB4B00DF88BA /* NumberCollectionViewCell.swift */,
+			);
+			path = "Cells,Subclasses";
+			sourceTree = "<group>";
+		};
 		AC6DAE7D20F8913900C278C9 = {
 			isa = PBXGroup;
 			children = (
+				ACBCD6752111B29200930D4B /* Sounds */,
+				AC04321220FF1466006C1875 /* fonts */,
+				AC0431D620FDDB5F006C1875 /* Enums */,
+				AC39CC6220FC5CA9002E19D1 /* Cells,Subclasses */,
+				AC6DAEC220FB514700C278C9 /* Extensions */,
+				AC6DAEC120F8D4F100C278C9 /* Exercises */,
+				AC6DAEBA20F8BA4100C278C9 /* Profile */,
+				AC6DAEB920F8BA3200C278C9 /* CheckWpm */,
 				AC6DAE8820F8913900C278C9 /* Train2Read */,
 				AC6DAE9D20F8913B00C278C9 /* Train2ReadTests */,
 				AC6DAEA820F8913B00C278C9 /* Train2ReadUITests */,
 				AC6DAE8720F8913900C278C9 /* Products */,
+				64C98081C76BDF60F55E19CC /* Pods */,
+				58056511E3B207DDAD1E53D7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,6 +259,11 @@
 			children = (
 				AC6DAE8920F8913900C278C9 /* AppDelegate.swift */,
 				AC6DAE8B20F8913900C278C9 /* ViewController.swift */,
+				AC39CC6020FC5C57002E19D1 /* SchulteTableVC.swift */,
+				AC0431D420FCFABC006C1875 /* WideningVC.swift */,
+				AC0431D920FF0333006C1875 /* MixedVC.swift */,
+				ACEA291E2110DAA400DF88BA /* NumbersSchulteTable.swift */,
+				AC043241210A2F0C006C1875 /* BackWardsVC.swift */,
 				AC6DAE8D20F8913900C278C9 /* Main.storyboard */,
 				AC6DAE9020F8913B00C278C9 /* Assets.xcassets */,
 				AC6DAE9220F8913B00C278C9 /* LaunchScreen.storyboard */,
@@ -125,6 +290,50 @@
 			path = Train2ReadUITests;
 			sourceTree = "<group>";
 		};
+		AC6DAEB920F8BA3200C278C9 /* CheckWpm */ = {
+			isa = PBXGroup;
+			children = (
+				AC6DAEBB20F8BA5400C278C9 /* CheckWpmVC.swift */,
+				ACEA2917210FA91C00DF88BA /* InsertTextVC.swift */,
+			);
+			path = CheckWpm;
+			sourceTree = "<group>";
+		};
+		AC6DAEBA20F8BA4100C278C9 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				AC043246210BA071006C1875 /* ProfileVC.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		AC6DAEC120F8D4F100C278C9 /* Exercises */ = {
+			isa = PBXGroup;
+			children = (
+				AC6DAEBF20F8D4EA00C278C9 /* ExercisesVC.swift */,
+			);
+			path = Exercises;
+			sourceTree = "<group>";
+		};
+		AC6DAEC220FB514700C278C9 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				AC6DAEC320FB516700C278C9 /* StringExtension.swift */,
+				AC6DAEC520FB51B100C278C9 /* UIColorExtension.swift */,
+				AC04323720FF3E48006C1875 /* ViewExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		ACBCD6752111B29200930D4B /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				ACBCD6772111B2A800930D4B /* smb_bump.wav */,
+				ACBCD6762111B2A800930D4B /* smb_coin.wav */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,6 +341,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AC6DAEAE20F8913B00C278C9 /* Build configuration list for PBXNativeTarget "Train2Read" */;
 			buildPhases = (
+				635D24B0B522F5C5F5832F15 /* [CP] Check Pods Manifest.lock */,
 				AC6DAE8220F8913900C278C9 /* Sources */,
 				AC6DAE8320F8913900C278C9 /* Frameworks */,
 				AC6DAE8420F8913900C278C9 /* Resources */,
@@ -149,6 +359,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AC6DAEB120F8913B00C278C9 /* Build configuration list for PBXNativeTarget "Train2ReadTests" */;
 			buildPhases = (
+				F618B4FF428C00FBABFB9C71 /* [CP] Check Pods Manifest.lock */,
 				AC6DAE9620F8913B00C278C9 /* Sources */,
 				AC6DAE9720F8913B00C278C9 /* Frameworks */,
 				AC6DAE9820F8913B00C278C9 /* Resources */,
@@ -167,6 +378,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AC6DAEB420F8913B00C278C9 /* Build configuration list for PBXNativeTarget "Train2ReadUITests" */;
 			buildPhases = (
+				81250F8DA66CAD5AC3CEE989 /* [CP] Check Pods Manifest.lock */,
 				AC6DAEA120F8913B00C278C9 /* Sources */,
 				AC6DAEA220F8913B00C278C9 /* Frameworks */,
 				AC6DAEA320F8913B00C278C9 /* Resources */,
@@ -193,6 +405,11 @@
 				TargetAttributes = {
 					AC6DAE8520F8913900C278C9 = {
 						CreatedOnToolsVersion = 9.4.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 0;
+							};
+						};
 					};
 					AC6DAE9920F8913B00C278C9 = {
 						CreatedOnToolsVersion = 9.4.1;
@@ -229,9 +446,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC04322D20FF147F006C1875 /* Raleway-ExtraLightItalic.ttf in Resources */,
+				AC04322520FF147F006C1875 /* Raleway-ExtraBold.ttf in Resources */,
+				AC04323020FF147F006C1875 /* Raleway-ExtraLight.ttf in Resources */,
+				AC04323620FF147F006C1875 /* Raleway-BoldItalic.ttf in Resources */,
+				AC04323220FF147F006C1875 /* Raleway-SemiBoldItalic.ttf in Resources */,
+				AC04322B20FF147F006C1875 /* Raleway-Light.ttf in Resources */,
+				AC04322820FF147F006C1875 /* Raleway-Italic.ttf in Resources */,
+				AC04322A20FF147F006C1875 /* Raleway-LightItalic.ttf in Resources */,
 				AC6DAE9420F8913B00C278C9 /* LaunchScreen.storyboard in Resources */,
+				AC04323520FF147F006C1875 /* Raleway-BlackItalic.ttf in Resources */,
+				AC04323320FF147F006C1875 /* Raleway-ExtraBoldItalic.ttf in Resources */,
 				AC6DAE9120F8913B00C278C9 /* Assets.xcassets in Resources */,
+				AC04323420FF147F006C1875 /* Raleway-Medium.ttf in Resources */,
+				AC04322720FF147F006C1875 /* Raleway-Thin.ttf in Resources */,
+				AC04322920FF147F006C1875 /* Raleway-MediumItalic.ttf in Resources */,
 				AC6DAE8F20F8913900C278C9 /* Main.storyboard in Resources */,
+				AC04322E20FF147F006C1875 /* Raleway-Regular.ttf in Resources */,
+				AC04322F20FF147F006C1875 /* Raleway-ThinItalic.ttf in Resources */,
+				ACBCD6782111B2A800930D4B /* smb_coin.wav in Resources */,
+				AC04322620FF147F006C1875 /* Raleway-SemiBold.ttf in Resources */,
+				ACBCD6792111B2A800930D4B /* smb_bump.wav in Resources */,
+				AC04322C20FF147F006C1875 /* Raleway-Black.ttf in Resources */,
+				AC04323120FF147F006C1875 /* Raleway-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,13 +488,89 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		635D24B0B522F5C5F5832F15 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Train2Read-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		81250F8DA66CAD5AC3CEE989 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Train2ReadUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F618B4FF428C00FBABFB9C71 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Train2ReadTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		AC6DAE8220F8913900C278C9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC04323A21098408006C1875 /* MixedTexts.swift in Sources */,
+				ACEA29212110DB4B00DF88BA /* NumberCollectionViewCell.swift in Sources */,
+				AC0431D520FCFABC006C1875 /* WideningVC.swift in Sources */,
+				AC0431D820FDDB80006C1875 /* Constants.swift in Sources */,
+				AC6DAEC020F8D4EA00C278C9 /* ExercisesVC.swift in Sources */,
+				AC6DAEC420FB516700C278C9 /* StringExtension.swift in Sources */,
+				AC043240210A283B006C1875 /* BackwardTexts.swift in Sources */,
+				AC6DAEB820F8A0F300C278C9 /* TableViewCell.swift in Sources */,
+				AC6DAEC620FB51B100C278C9 /* UIColorExtension.swift in Sources */,
+				ACEA291F2110DAA400DF88BA /* NumbersSchulteTable.swift in Sources */,
+				AC043244210B8F02006C1875 /* WpmCell.swift in Sources */,
+				AC39CC6420FC5CC9002E19D1 /* SchulteTableViewCell.swift in Sources */,
+				AC6DAEBC20F8BA5400C278C9 /* CheckWpmVC.swift in Sources */,
+				AC39CC6120FC5C57002E19D1 /* SchulteTableVC.swift in Sources */,
+				AC043247210BA071006C1875 /* ProfileVC.swift in Sources */,
+				ACEA2918210FA91C00DF88BA /* InsertTextVC.swift in Sources */,
+				AC0431DA20FF0333006C1875 /* MixedVC.swift in Sources */,
+				AC043242210A2F0C006C1875 /* BackWardsVC.swift in Sources */,
 				AC6DAE8C20F8913900C278C9 /* ViewController.swift in Sources */,
 				AC6DAE8A20F8913900C278C9 /* AppDelegate.swift in Sources */,
+				AC04323820FF3E48006C1875 /* ViewExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,42 +741,53 @@
 		};
 		AC6DAEAF20F8913B00C278C9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA8E4FD5BD0EEEE717A01686 /* Pods-Train2Read.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = VQ2A24U5VU;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = AB65P3C5XF;
 				INFOPLIST_FILE = Train2Read/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = SDU.Train2Read;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Train2Read;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "b10aec79-dc65-4eff-819a-0c515690e916";
+				PROVISIONING_PROFILE_SPECIFIER = "Aldiyar Distribution Profile";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		AC6DAEB020F8913B00C278C9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C6A45DF1360049A5D809A072 /* Pods-Train2Read.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = VQ2A24U5VU;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = AB65P3C5XF;
 				INFOPLIST_FILE = Train2Read/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = SDU.Train2Read;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Train2Read;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "b10aec79-dc65-4eff-819a-0c515690e916";
+				PROVISIONING_PROFILE_SPECIFIER = "Aldiyar Distribution Profile";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 		AC6DAEB220F8913B00C278C9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3D9A571998938D21E9B8F2FF /* Pods-Train2ReadTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -485,6 +809,7 @@
 		};
 		AC6DAEB320F8913B00C278C9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C0BECB571893D212479ABBB3 /* Pods-Train2ReadTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -506,6 +831,7 @@
 		};
 		AC6DAEB520F8913B00C278C9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B2458D9527451C47970473C2 /* Pods-Train2ReadUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -526,6 +852,7 @@
 		};
 		AC6DAEB620F8913B00C278C9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 92F36414C3177186AFEB3281 /* Pods-Train2ReadUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

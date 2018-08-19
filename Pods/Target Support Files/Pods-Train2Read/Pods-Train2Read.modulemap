@@ -1,0 +1,6 @@
+framework module Pods_Train2Read {
+  umbrella header "Pods-Train2Read-umbrella.h"
+
+  export *
+  module * { export * }
+}
